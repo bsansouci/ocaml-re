@@ -1,0 +1,14 @@
+{
+  "name": "ocamlRe",
+  "version": "0.0.1",
+  "description": "Pure OCaml regular expression library",
+  "license": "LGPL-2.0 with OCaml linking exception",
+  "dependencies": {
+    "ocamlBytes": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsansouci/ocaml-re.git"
+  },
+  "author": "Jerome Vouillon, Thomas Gazagnaire, Anil Madhavapeddy"
+}

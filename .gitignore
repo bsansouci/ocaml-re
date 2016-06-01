@@ -7,3 +7,5 @@ setup.exe
 *.native
 *.byte
 *.docdir
+node_modules
+.jenga
