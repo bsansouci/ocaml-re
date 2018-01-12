@@ -9,3 +9,5 @@ setup.exe
 *.docdir
 node_modules
 .jenga
+.merlin
+lib

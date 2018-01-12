@@ -1,10 +1,10 @@
 {
   "name": "ocamlRe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Pure OCaml regular expression library",
   "license": "LGPL-2.0 with OCaml linking exception",
-  "dependencies": {
-    "ocamlBytes": "0.0.1"
+  "devDependencies": {
+    "bs-platform": "bsansouci/bsb-native#2.1.1"
   },
   "repository": {
     "type": "git",

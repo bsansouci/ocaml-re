@@ -1,0 +1,9 @@
+{
+  "name": "ocaml-re",
+  "sources": "src",
+  "entries": [{
+    "backend": "bytecode",
+    "main-module": "Test"
+  }],
+  "namespace": true
+}
